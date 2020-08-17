@@ -1,6 +1,5 @@
 # Angular CRUD
 Basic Angular CRUD.
-
 The back-end is only a json-server, this project has made to train Angular framework.
 
 ## Requisites
