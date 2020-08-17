@@ -12,7 +12,7 @@ $ npm install
 
 ## Running the project
 ``` bash
-In the **back-end** and **front-end** folder:
+In the *back-end* and ***front-end*** folder:
 $ npm start
 ```
 
