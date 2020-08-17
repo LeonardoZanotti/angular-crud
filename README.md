@@ -6,13 +6,13 @@ Basic Angular CRUD.<br> The back-end is only a json-server, this project was mad
 
 ## Instalation
 ``` bash
-In the **back-end** and **front-end** folder:
+In the \*back-end\* and \*front-end\* folder:
 $ npm install
 ```
 
 ## Running the project
 ``` bash
-In the *back-end* and ***front-end*** folder:
+In the \*back-end\* and \*front-end\* folder:
 $ npm start
 ```
 
