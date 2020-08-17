@@ -10,8 +10,6 @@ The back-end is only a json-server, this project has made to train Angular frame
 On the /back-end folder:
 $ npm install
 
-\n
-
 On the /front-end folder:
 $ npm install
 ```
@@ -20,8 +18,6 @@ $ npm install
 ``` bash
 On the /back-end folder:
 $ npm start
-
-\n
 
 On the /front-end folder:
 $ npm start
