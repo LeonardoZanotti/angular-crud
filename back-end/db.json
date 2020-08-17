@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC preta",
+      "price": 5.89
+    },
+    {
+      "id": 3,
+      "name": "Celular",
+      "price": 149.6
+    },
+    {
+      "name": "geladeira tsunami",
+      "price": "587,45",
+      "id": 4
+    },
+    {
+      "name": "pc gamer",
+      "price": "2000",
+      "id": 5
+    }
+  ]
+}
