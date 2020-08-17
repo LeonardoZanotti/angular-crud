@@ -1,24 +1,18 @@
 # Angular CRUD
-Basic Angular CRUD.<br> The back-end is only a json-server, this project has made to train Angular framework.
+Basic Angular CRUD.<br> The back-end is only a json-server, this project was made to train Angular framework.
 
 ## Requisites
 * Node
 
 ## Instalation
 ``` bash
-On the /back-end folder:
-$ npm install
-
-On the /front-end folder:
+In the **back-end** and **front-end** folder:
 $ npm install
 ```
 
 ## Running the project
 ``` bash
-On the /back-end folder:
-$ npm start
-
-On the /front-end folder:
+In the **back-end** and **front-end** folder:
 $ npm start
 ```
 
