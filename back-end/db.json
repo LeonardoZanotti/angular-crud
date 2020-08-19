@@ -14,6 +14,81 @@
       "id": 3,
       "name": "Torradeira bala",
       "price": 50.26
+    },
+    {
+      "name": "form",
+      "price": "12",
+      "id": 4
+    },
+    {
+      "name": "geladeira tsunamiiiiii",
+      "price": "5",
+      "id": 5
+    },
+    {
+      "name": "Isso mesmo",
+      "price": "9.99",
+      "id": 6
+    },
+    {
+      "name": "Produto1",
+      "price": "89.99",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Chinelo de madeira 57 alça de pneu",
+      "price": "1.99"
+    },
+    {
+      "id": 9,
+      "name": "Celular",
+      "price": 149.6
+    },
+    {
+      "id": 10,
+      "name": "Torradeira bala",
+      "price": 50.26
+    },
+    {
+      "name": "form",
+      "price": "12",
+      "id": 11
+    },
+    {
+      "name": "geladeira tsunamiiiiii",
+      "price": "5",
+      "id": 12
+    },
+    {
+      "name": "Isso mesmo",
+      "price": "9.99",
+      "id": 13
+    },
+    {
+      "name": "Produto1",
+      "price": "89.99",
+      "id": 14
+    },
+    {
+      "id": 15,
+      "name": "Caneta BIC preta",
+      "price": 5.89
+    },
+    {
+      "id": 16,
+      "name": "Celular",
+      "price": 149.6
+    },
+    {
+      "id": 17,
+      "name": "Torradeira bala",
+      "price": 50.26
+    },
+    {
+      "name": "form",
+      "price": "12",
+      "id": 18
     }
   ]
 }

@@ -1,9 +1,9 @@
-<mat-card class="newProduct mat-elevation-z3">
+<mat-card class="mat-elevation-z3">
     <mat-card-title class="title">
-        New Product
+        Update Product
     </mat-card-title>
     <form>
-        <mat-form-field class="inputField">
+        <mat-form-field>
             <input matInput placeholder="Name" [(ngModel)]="product.name" name="name">
         </mat-form-field>
         <mat-form-field class="inputField">
@@ -11,7 +11,7 @@
         </mat-form-field>
     </form>
     
-    <button mat-raised-button (click)="createProduct()" color="primary" class="button1">
+    <button mat-raised-button (click)="updateProduct()" color="primary" class="button1">
         Save
     </button>
     

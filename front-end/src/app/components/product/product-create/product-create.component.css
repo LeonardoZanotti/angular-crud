@@ -1,0 +1,27 @@
+.newProduct {
+    background-color: #999999;
+    width: 25vw;
+}
+
+.title {
+    color: #9b1fb9;
+    font-weight: 600;
+}
+
+.newProduct form {
+    display: flex;
+    flex-direction: column;
+}
+
+.newProduct .inputField {
+    width: 20vw;
+}
+
+.newProduct button {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.newProduct .button1 {
+    margin-left: 17vw;
+}
