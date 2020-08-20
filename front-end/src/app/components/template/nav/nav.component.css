@@ -1,6 +1,11 @@
+.navegacao {
+    height: 87vh;
+}
+
 .sidenav {
     background-color: #444444;
     width: 200px;
+    height: 87vh;
 }
 
 .sidenav a {
@@ -14,6 +19,6 @@
 .content {
     background-color: #CCCCCC;
     background-size: cover;
-    height: 83vh;
+    height: 87vh;
     padding: 16px;
 }

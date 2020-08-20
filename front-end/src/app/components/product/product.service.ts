@@ -31,8 +31,10 @@ export class ProductService {
                                                     // https://github.com/typicode/json-server#paginate
   }
 
-                                // deixar tudo responsivo
+                                // deixar tudo responsivo -> bootstrap
                                 // modal de delete
+                          // https://www.itsolutionstuff.com/post/angular-call-component-method-from-another-component-exampleexample.html
+                          // https://medium.com/@hasangalakdinu/how-to-call-a-function-in-another-component-angular-using-rxjs-3f2e85920705
 
   readById(id: string): Observable<Product> {
     const url = `${this.baseUrl}/${id}`;
