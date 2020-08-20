@@ -1,10 +1,10 @@
-.updateProduct {
-    background-color: #999999;
+.deleteProduct {
+    background-color: #555555;
     width: 25vw;
 }
 
 .title {
-    color: #9b1fb9;
+    color: #999999;
     font-weight: 600;
     padding-bottom: 15px;
 }
@@ -14,15 +14,15 @@ form {
     flex-direction: column;
 }
 
-.updateProduct .inputField {
+.deleteProduct .inputField {
     width: 20vw;
 }
 
-.updateProduct button {
+.deleteProduct button {
     margin-top: 10px;
     margin-left: 5px;
 }
 
-.updateProduct .button1 {
+.deleteProduct .button1 {
     margin-left: 17vw;
 }
