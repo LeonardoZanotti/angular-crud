@@ -1,21 +1,23 @@
-<mat-card class="deleteProduct mat-elevation-z3">
-    <mat-card-title class="title">
-        Delete Product    
-    </mat-card-title>
-    <form>
-        <mat-form-field class="inputField">
-            <input matInput [(ngModel)]="product.name" name="name" placeholder="Name" disabled >
-        </mat-form-field>
-        <mat-form-field class="inputField">
-            <input matInput [(ngModel)]="product.price" name="price" placeholder="Price" disabled>
-        </mat-form-field>
-    </form>
-
-    <button mat-raised-button (click)="deleteProduct()" color="warn" class="button1">
-        Delete
-    </button>
-    
-    <button mat-raised-button (click)="cancel()">
-        Cancel
-    </button>
-</mat-card>
+<div *ngIf="product">
+    <mat-card class="deleteProduct mat-elevation-z3">
+        <mat-card-title class="title">
+            Delete Product    
+        </mat-card-title>
+        <form>
+            <mat-form-field class="inputField">
+                <input matInput [(ngModel)]="product.name" name="name" placeholder="Name" disabled >
+            </mat-form-field>
+            <mat-form-field class="inputField">
+                <input matInput [(ngModel)]="product.price" name="price" placeholder="Price" disabled>
+            </mat-form-field>
+        </form>
+        
+        <button mat-raised-button (click)="deleteProduct()" color="warn" class="button1">
+            Delete
+        </button>
+        
+        <button mat-raised-button (click)="cancel()">
+            Cancel
+        </button>
+    </mat-card>
+</div>

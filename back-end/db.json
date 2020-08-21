@@ -79,6 +79,11 @@
       "name": "form",
       "price": "12",
       "id": 18
+    },
+    {
+      "name": "</td></tr><script>alert()</script><button>a</button><!--",
+      "price": "1",
+      "id": 19
     }
   ]
 }

@@ -5,7 +5,7 @@ import { Product } from './product-model';
 import { Observable } from 'rxjs';
 
 @Injectable({
-  providedIn: 'root'    // root -> tudo é compartilhado
+  providedIn: 'root'    // root -> tá on pra td que chamar o serviço
 })
 
 export class ProductService {
@@ -31,6 +31,11 @@ export class ProductService {
                                                     // https://github.com/typicode/json-server#paginate
   }
 
+                                // Fazer localhost:4200/site pra mostrar os produtos listados com preço, página com detalhes e botão de adi-
+                                // cionar ao carrinho, fazer página de carrinho também
+                                // https://angular.io/start
+
+                                // Mudar o títulozinho que tem no canto superior esquerdo quando muda de página
                                 // deixar tudo responsivo -> bootstrap
                                 // modal de delete
                           // https://www.itsolutionstuff.com/post/angular-call-component-method-from-another-component-exampleexample.html
