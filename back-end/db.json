@@ -84,6 +84,11 @@
       "name": "</td></tr><script>alert()</script><button>a</button><!--",
       "price": "1",
       "id": 19
+    },
+    {
+      "name": "<script>alert()</script> </tr> <strong>Oi</strong>",
+      "price": "1",
+      "id": 20
     }
   ]
 }
