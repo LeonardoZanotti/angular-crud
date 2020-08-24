@@ -35,11 +35,11 @@ export class ProductService {
                                 // cionar ao carrinho, fazer página de carrinho também
                                 // https://angular.io/start
 
+                                // importar uma fonte diferente e mudar no css o font-family
                                 // Mudar o títulozinho que tem no canto superior esquerdo quando muda de página
                                 // deixar tudo responsivo -> bootstrap
                                 // modal de delete
                                 // conseguir executar os testes com o jasmine e resolver o que tem de errado
-                                // trocar o título da página de front-end pra qualquer outra coisa
                           // https://www.itsolutionstuff.com/post/angular-call-component-method-from-another-component-exampleexample.html
                           // https://medium.com/@hasangalakdinu/how-to-call-a-function-in-another-component-angular-using-rxjs-3f2e85920705
 
